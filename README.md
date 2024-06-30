@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mateoqac or Mateo
-- 👀 I’m interested in backend programming but I like to do frontend stuff from time to time
+👋 Hi, I’m @mateoqac or Mateo
 
 ## 🔧 Technologies & Tools
 
